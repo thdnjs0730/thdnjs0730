@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Sowon's%20Github&animation=twinkling&fontSize=35&fontColor=black&height=250)
 
 ## 📝 Introduce 📝
-동양미래대학교<br>
-인공지능소프트웨어학과 20231596 QB 최소원
+
+<p><b>인공지능소프트웨어학과 QB 20231596</b><p> 
+동양미래대학교 인공지능소프트웨어학과 재학<br>
+명지전문대학교 컴퓨터공학과 자퇴<br>
+서서울생활과학고등학교 국제관광과 졸업
 
 ## 👩‍💻 My Github Stats 👩‍💻
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thdnjs0730&hide=contribs,prs&show_icons=true&theme=transparent)
