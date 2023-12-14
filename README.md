@@ -1,27 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Sowon's%20Github👋&animation=twinkling&fontSize=35&fontColor=black&height=250)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Sowon's%20Github&animation=twinkling&fontSize=35&fontColor=black&height=250)
 
 ## 👩‍💻 My Github Stats 👩‍💻
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thdnjs0730&hide=contribs,prs&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdnjs0730)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://ghchart.rshah.org/6666ff/thdnjs0730" />
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+    <!-- Languages -->
+    <p><strong>Languages</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    </div>
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
     </div>
     <!-- Tools -->
     <p><strong>Tools</strong></p>
@@ -29,6 +25,8 @@
         <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+        <img src="https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white">
+        <img src="https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white">
 </div><br>
 </div>
 
