@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Sowon's%20Github&animation=twinkling&fontSize=35&fontColor=black&height=250)
 
 ## 📝 Introduce 📝
-인공지능소프트웨어학과 20231596 QB 최소원<br>
-오픈소스소프트웨어 개인과제<br>
-2023년도 과제 및 필기 정리
+동양미래대학교<br>
+인공지능소프트웨어학과 20231596 QB 최소원
 
 ## 👩‍💻 My Github Stats 👩‍💻
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thdnjs0730&hide=contribs,prs&show_icons=true&theme=transparent)
